@@ -1,0 +1,20 @@
+bentoml
+tensorflow
+joblib
+tqdm
+pip-chill 
+wincertstore # for ssl certicate 
+dvc
+mlflow
+ipykernel
+pandas
+numpy
+seaborn
+
+tensorflow==2.13.0
+tox==3.25.1
+flake8==5.0.4
+mypy==0.971
+black==22.8.0
+
+#-e . # it automatically call setup.py

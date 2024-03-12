@@ -1,0 +1,8 @@
+bentoml
+tensorflow
+joblib
+tqdm
+pip-chill 
+wincertstore # for ssl certicate 
+
+-e . 
